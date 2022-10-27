@@ -1,1 +1,10 @@
- 
+ :root{
+    box-sizing: border-box;
+ }
+
+ *,
+ ::before,
+ ::after {
+    box-sizing: border-box;
+    background-color: rgba(54, 77, 72, 0.5);
+ }
